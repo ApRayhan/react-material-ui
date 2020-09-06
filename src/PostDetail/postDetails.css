@@ -1,0 +1,13 @@
+.post {
+ width: 90%;
+ margin:0 auto;
+}
+.postDetails {
+
+}
+.body {
+  background: #625f5f;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
